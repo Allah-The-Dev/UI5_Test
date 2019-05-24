@@ -5,7 +5,7 @@
 			<pages>
 				<Page id="page" title="{i18n>title}">
 					<content>
-						<Button text="submit"></Button>
+						<Button text="Submit"></Button>
 					</content>
 				</Page>
 			</pages>
